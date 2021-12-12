@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Bluetooth-Controller.iml" filepath="$PROJECT_DIR$/.idea/modules/Bluetooth-Controller.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Bluetooth-Controller.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Bluetooth-Controller.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/Bluetooth-Controller.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/Bluetooth-Controller.library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Bluetooth-Controller-App.iml" filepath="$PROJECT_DIR$/.idea/modules/Bluetooth-Controller-App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Bluetooth-Controller-App.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Bluetooth-Controller-App.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/Bluetooth-Controller-App.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/Bluetooth-Controller-App.library.iml" />
     </modules>
   </component>
 </project>

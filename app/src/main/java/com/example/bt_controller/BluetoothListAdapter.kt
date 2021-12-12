@@ -6,9 +6,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.bt_controller.databinding.ItemBluetoothDeviceBinding
 import java.util.*
 
-/**
- * Created by tolga bolatcan on 26.01.2019
- */
+
 class BluetoothListAdapter(private var item: ArrayList<BluetoothDeviceModel>) :
     RecyclerView.Adapter<BluetoothListAdapter.ViewHolder>() {
 
